@@ -62,7 +62,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/kessie2862/Morse-Code.git
+  git clone https://github.com/DebyGrey/Morse-Code.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -70,18 +70,6 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
-👤 **Prosper Kessie**
-
-- GitHub: [@kessie2862](https://github.com/kessie2862)
-- LinkedIn: [Prosper Kessie](https://www.linkedin.com/in/prosperkessie/)
-
-👤 **Antoine Makdessy**
-
-- GitHub: [@ANTOINE1128](https://github.com/ANTOINE1128)
-- LinkedIn: [Antoine (Tony) Makdessy](https://www.linkedin.com/in/antoine-makdessy/)
-
 
 👤 **Deborah A. Fashoro**
 
@@ -98,7 +86,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kessie2862/Morse-Code/issues).
+Feel free to check the [issues page](https://github.com/DebyGrey/Morse-Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +103,6 @@ If you like this project please give it a ⭐️!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/kessie2862/Morse-Code/blob/morse-code/LICENSE) licensed.
+This project is [MIT](https://github.com/DebyGrey/Morse-Code/blob/morse-code/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
